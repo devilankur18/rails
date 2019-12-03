@@ -1,6 +1,6 @@
 require 'thread'
 
-gem 'redis', '~> 3.0'
+gem 'redis', '~> 4.0'
 require 'redis'
 
 module ActionCable
